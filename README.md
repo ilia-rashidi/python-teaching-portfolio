@@ -8,7 +8,7 @@ The materials include programming exercises, problem statements, quizzes, midter
 
 Over four semesters, I worked as a Python Teaching Assistant with four different instructors across seven Python programming groups, supporting approximately 950 students.
 
-In two of these course offerings, I served as Head Teaching Assistant. In this role, I helped coordinate TA activities, support students, review assignments and quizzes, manage testing or grading workflows, and communicate common student difficulties to the teaching team.
+In three of these course offerings, I served as Head Teaching Assistant. In this role, I helped coordinate TA activities, support students, review assignments and quizzes, manage testing or grading workflows, and communicate common student difficulties to the teaching team.
 
 # Python Teaching Materials Portfolio
 
